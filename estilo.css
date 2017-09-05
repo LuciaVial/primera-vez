@@ -4,16 +4,16 @@ body{
 /*  font-family: 'PT Serif', serif;*/
 font-family:georgia,serif;
   font-weight:400;
-  color:#fff;
-  background:#ff0;
-  background-image:url(http://lh4.ggpht.com/-y7-urjriBC8/UKXAmRKpG8I/AAAAAAAAeaY/yJUM7L_uu-4/brillos-brujamar-1012_thumb%25255B2%25255D.gif);
+  color:#000;
+  background:#000;
+  background-image:url(http://4.bp.blogspot.com/-Mj_TZR3KPOE/UQc4qVLu-YI/AAAAAAAAAWY/mkyFl6H-NQ8/s1600/glitters_brillo_0006.gif);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 100%;
   background-attachment: fixed;
 }
 
-a{color:#fff; text-decoration: none; border-bottom:1px dotted #ccc;}
+a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
 
 a:hover{color:#f00; border-bottom:1px dotted #f00;}
 
